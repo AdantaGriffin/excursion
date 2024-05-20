@@ -1,0 +1,20 @@
+.app-body{
+    background-color: black;
+}
+.heading{
+    /*border: 2px solid white;*/
+}
+.title{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.link-container{
+    text-align: center;
+}
+.link{
+    color: aquamarine;
+    font-size: 16px;
+}
