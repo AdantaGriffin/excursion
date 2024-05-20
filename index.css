@@ -18,3 +18,45 @@
     color: aquamarine;
     font-size: 16px;
 }
+.media-container{
+    margin-top: 25px;
+    text-align: center;
+}
+.second-title-container{
+    text-align: center;
+}
+.second-title{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.quote-container{
+    text-align: center;
+}
+.quote{
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+.image-container{
+    margin-top: 25px;
+    text-align: center;
+}
+.cell-container{
+    margin-top: 25px;
+    text-align: center;
+}
+.end-quote-container{
+    font-family: Verdana;
+    font-size: 42px;
+    margin-top: 25px;
+    text-align: center;
+}
+.end-quote{
+    color: white;
+}
+.copyright{
+    text-align: right;
+    color: grey;
+}
